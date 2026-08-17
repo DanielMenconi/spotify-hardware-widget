@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Spotify cache
+.cache
+.cache-*
+
+# Local database
+spotify_stats.db
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
